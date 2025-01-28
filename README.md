@@ -1,4 +1,4 @@
-# netflix_dashboard_tableau
+# Netflix-Trends-Tableau
 Netflix Dashboard Project
 
 Overview
